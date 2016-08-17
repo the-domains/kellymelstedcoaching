@@ -1,0 +1,28 @@
+name: kellymelstedcoaching
+favicon: null
+layout_spectrum: 0.14164150087162852
+typography_spectrum: 0.7406728866044432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.16799059906043112
+  lightness: 0.9554493480827659
+  saturation: 0.7075908067636192
+  rhythmicContrast: 0.9404682472813874
+purpose: []
